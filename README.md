@@ -1,4 +1,4 @@
-# Tarea_2_IIC2440
+# Tarea_2_IIC2440 por Benjamín Varela y Francisco Meza
 
 La funcion que encuentra triangulos es patron_triangulos, que recibe el grafo en formato lista de aristas y un "b" que nos dará la cantidad de reducers.
 
